@@ -22,3 +22,6 @@ To run the application, follow these steps:
 - Get current weather information for a specified location
 - Use geolocation to get current weather information for the user's current location
 - Choose between manual location entry and famous cities
+- ## Skills Gained 🤓
+
+Through this project, I gained experience in web development and working with APIs. I also improved my skills in Python programming and using FastAPI.
