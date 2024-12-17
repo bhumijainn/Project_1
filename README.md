@@ -1,4 +1,5 @@
-# Project_1
+# fast-api-pyhton-weather-forecast
+
 ## Project Description 
 
 This project is a weather application built with FastAPI and Python. It allows users to enter a location and get the current weather information for that location. Users can also choose to use their current location through the geolocation feature.
